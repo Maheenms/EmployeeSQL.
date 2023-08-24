@@ -15,7 +15,7 @@ Before we being , we need to do the following:
 
 ## Steps and Instruction:  
 
-This assignment is divided into three parts: data modeling, data engineering, and data analysis.
+This project is divided into three parts: data modeling, data engineering, and data analysis.
 
 ### 1) Data Modeling:
 We need to inspect the CSVs and sketch out an ERD of the tables. We will use http://www.quickdatabasediagrams.com as our tool for sketching.  
