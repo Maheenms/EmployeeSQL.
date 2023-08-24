@@ -6,7 +6,7 @@ In this project, our main task as a new data engineer is to execute a research p
 
 
 ## Configuration: 
-Before we being , we need to do the following: 
+Before we begin , we need to do the following: 
  * Create a new repository for this project called sql-challenge and clone the new repository to our computer.  
  * Inside our local Git repository, create a directory for the SQL challenge.  
  * Make a folder named EmployeeSQL.  
